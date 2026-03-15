@@ -191,3 +191,22 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 To the extent possible under law, @ttumiel has waived all copyright and
 related or neighboring rights to this work. For the full license see `license.md`.
+
+## 📋 Project Information
+
+- **Name**: RustChain
+- **Category**: Ecosystem / Resources
+- **GitHub Repo**: https://github.com/Scottcjn/rustchain-bounties
+
+---
+
+## 🔗 Description
+
+RustChain is the first blockchain network focused on "**Proof-of-Antiquity**" (PoA), encouraging users to excavate and preserve digital artifacts — such as legacy software and open-source projects — to build a decentralized historical archive.
+
+- 🏛️ **Innovative Consensus**: PoA relies on project age + community认可度  
+- 💎 **Token (RTC)**: Rewards content creators & ecosystem contributors  
+- 🌍 **Bounties Ecosystem**: Multilingual tutorials, XiaoHongShu promotion, Accessibility Audit, and more  
+
+> RustChain isn't just a blockchain — it's a guardian of digital heritage. Let old tech live again! 🕰️
+
